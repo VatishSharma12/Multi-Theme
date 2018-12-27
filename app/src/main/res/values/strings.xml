@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultiTheme</string>
+    <string name="change_theme">Change Theme</string>
+    <string name="this_is_an_example_of_a_text_view">This is an example of a text view.</string>
+    <string name="this_is_an_example_of_a_button">This is an example of a button.</string>
+    <string name="swich">Switch</string>
+    <string name="heading_text_view">Heading Text View</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme -->
+    <style name="BaseTheme" parent="Theme.AppCompat.Light.DarkActionBar" />
+
+    <!-- Light application theme. -->
+    <style name="LightTheme" parent="BaseTheme">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/lightColorPrimary</item>
+        <item name="colorPrimaryDark">@color/lightColorPrimaryDark</item>
+        <item name="colorAccent">@color/lightColorAccent</item>
+        <item name="android:textColorPrimary">@color/lightColorValue</item>
+
+        <item name="colorAppBackground">@color/lightColorBackground</item>
+
+        <item name="colorHeading">@color/lightColorHeading</item>
+        <item name="colorValue">@color/lightColorValue</item>
+        <item name="colorButtonBackground">@color/lightColorButtonBackground</item>
+        <item name="colorButtonText">@color/lightColorButtonText</item>
+        <item name="colorSwitchText">@color/lightColorSwitchText</item>
+    </style>
+
+    <!-- Dark application theme. -->
+    <style name="DarkTheme" parent="BaseTheme">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/darkColorPrimary</item>
+        <item name="colorPrimaryDark">@color/darkColorPrimaryDark</item>
+        <item name="colorAccent">@color/darkColorAccent</item>
+        <item name="android:textColorPrimary">@color/darkColorValue</item>
+
+        <item name="colorAppBackground">@color/darkColorBackground</item>
+
+        <item name="colorHeading">@color/darkColorHeading</item>
+        <item name="colorValue">@color/darkColorValue</item>
+        <item name="colorButtonBackground">@color/darkColorButtonBackground</item>
+        <item name="colorButtonText">@color/darkColorButtonText</item>
+        <item name="colorSwitchText">@color/darkColorSwitchText</item>
+    </style>
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- These do not need to define here because they are already defined by android when we extend our theme with AppCompat themes. -->
+    <!--<attr name="colorPrimary" format="reference" />-->
+    <!--<attr name="colorPrimaryDark" format="reference" />-->
+    <!--<attr name="accentColor" format="reference" />-->
+
+    <!-- Define custom attributes that are actually reference that will be filled by our themes -->
+    <attr name="colorAppBackground" format="reference" />
+    <attr name="colorHeading" format="reference" />
+    <attr name="colorValue" format="reference" />
+    <attr name="colorButtonBackground" format="reference" />
+    <attr name="colorButtonText" format="reference" />
+    <attr name="colorSwitchText" format="reference" />
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Light Theme color -->
+    <color name="lightColorPrimary">#111683</color>
+    <color name="lightColorPrimaryDark">#161858</color>
+    <color name="lightColorAccent">#9fe45c</color>
+
+    <color name="lightColorBackground">#e4e2e2</color>
+    <color name="lightColorHeading">#696969</color>
+    <color name="lightColorValue">#BF000000</color>
+    <color name="lightColorButtonBackground">#b0de83</color>
+    <color name="lightColorButtonText">#161858</color>
+    <color name="lightColorSwitchText">#BF000000</color>
+
+
+    <!-- Dark Theme color -->
+    <color name="darkColorPrimary">#1d1f1e</color>
+    <color name="darkColorPrimaryDark">#040605</color>
+    <color name="darkColorAccent">#eabf59</color>
+
+    <color name="darkColorBackground">#1d1f1e</color>
+    <color name="darkColorHeading">#f9f9f9</color>
+    <color name="darkColorValue">#aaaaac</color>
+    <color name="darkColorButtonBackground">#eabf59</color>
+    <color name="darkColorButtonText">#f9f9f9</color>
+    <color name="darkColorSwitchText">#aaaaac</color>
+
+</resources>

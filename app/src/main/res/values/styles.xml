@@ -1,0 +1,29 @@
+<resources>
+
+    <style name="AppBackground">
+        <item name="android:background">?attr/colorAppBackground</item>
+    </style>
+
+    <style name="HeadingStyle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">?attr/colorHeading</item>
+    </style>
+
+    <style name="ValueStyle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?attr/colorValue</item>
+    </style>
+
+    <style name="ButtonStyle">
+        <item name="android:background">?attr/colorButtonBackground</item>
+        <item name="android:textColor">?attr/colorButtonText</item>
+    </style>
+
+    <style name="SwitchStyle">
+        <item name="android:textColor">?attr/colorSwitchText</item>
+    </style>
+
+    <style name="VectorStyle">
+        <item name="android:tint">?attr/colorAccent</item>
+    </style>
+</resources>
